@@ -6,4 +6,9 @@
     height: 19px;
     border: none;
     background: transparent url('../../../images/DeleteButton.svg') no-repeat center/contain;
+    z-index: 1;
+}
+
+.element__delete:hover {
+    opacity: .7;
 }
