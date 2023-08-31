@@ -4,8 +4,7 @@
 
 Проект представляет собой адаптивный сайт - разрабатывался как перенос существующего функционала на React.
 
-[ссылка](https://eysaveleva.github.io/mesto-react/)
-
+[ссылка](https://eysaveleva.github.io/react-mesto-auth/)
 
 ## Available Scripts
 
